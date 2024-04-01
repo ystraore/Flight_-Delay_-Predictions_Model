@@ -9,8 +9,6 @@
 5. [Methodology](#methodology)
 6. [Usage](#usage)
 7. [Tech Stack](#tech-stack)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
 
 ## Introduction and Problem Statement
 In the aviation industry, flight delays are more than just inconveniences; they represent a significant challenge affecting operational efficiency and passenger satisfaction. The goal of this study is to develop a predictive model capable of categorizing flight delays into one of three distinct categories based on their duration: no delay, moderate delay, and lengthy delay. This classification is not arbitrary but is based on the real-world implications of delay durations on passengers' schedules and the operational logistics of airlines.
